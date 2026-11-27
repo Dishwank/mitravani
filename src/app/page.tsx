@@ -21,7 +21,7 @@ const sectors = [
     description: "Listening to dairy farmers about cattle care, fodder, veterinary access, milk collection and farm operations.",
     href: "/dairy",
     icon: Milk,
-    image: "public/images/Dairy Cow.webp",
+    image: "/images/Dairy%20images.jpeg"
   },
   {
     title: "Aquaculture",
